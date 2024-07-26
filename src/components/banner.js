@@ -16,7 +16,7 @@ export default function Banner() {
   }, []);
   return (
     <div class="mt-20">
-      <div className="Banner flex items-center justify-between resp-flex-wrap">
+      <div className="Banner flex items-center justify-between resp-flex-wrap resp-ht-check">
         <div className="w-1/2 resp-w-full">
           <h2 className="text-3xl md:text-3xl lg:text-4xl">Hi, I'm</h2>
           <h1 className="lg:text-6xl md:text-4xl text-4xl">Sitanshu Pathania</h1>
