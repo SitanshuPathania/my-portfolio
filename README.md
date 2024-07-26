@@ -8,6 +8,7 @@ This is my personal portfolio website built using ReactJS. The website showcases
 - **About**: Detailed information about myself.
 - **Skills**: A list of my technical skills and proficiencies.
 - **Projects**: A showcase of the projects I have worked on, including descriptions and links to live demos or repositories.
+- **Contact**: Information on how to get in touch with me.
 
 ## Technologies Used
 
