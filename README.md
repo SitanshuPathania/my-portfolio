@@ -18,3 +18,6 @@ This is my personal portfolio website built using ReactJS. The website showcases
 - **Tailwind**: For additional styling and layout options.
 - **Swiper JS**: For creating sliders.
 
+## Deployment
+
+This project is deployed on Netlify. You can view the live version at [My Portfolio Website](https://sitanshu-portfolio.netlify.app/).
