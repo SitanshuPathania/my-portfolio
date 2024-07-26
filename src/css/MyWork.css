@@ -1,0 +1,21 @@
+.MyWork{
+    max-width: 1000px;
+    margin: auto;
+}
+
+@media screen and (max-width:992px){
+    .work-resp-flex-wrap{
+        flex-wrap: wrap;
+        
+    }
+    .work-resp-w-full{
+        width: 100%;
+    }
+    .resp-mt{
+        margin-top: 0px;
+    }
+    .resp-mx-width{
+        max-width: 500px;
+    }
+    
+}

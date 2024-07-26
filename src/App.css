@@ -1,0 +1,21 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  background-color: black;
+  color:white;
+}
+
+.App .hero{
+  height:100vh;
+  margin: auto;
+}
+
+@media screen and (max-width:992px){
+  .App .hero{
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+}
+

@@ -1,0 +1,18 @@
+.About{
+    max-width:1000px;
+    margin:auto;
+}
+
+@media screen and (max-width:992px){
+    .resp-about-flex-wrap{
+        flex-wrap: wrap;
+        flex-direction: column-reverse;
+    }
+    .resp-about-w-full{
+        width: 100% !important;
+        margin: auto;
+        display: flex;
+        flex-direction: column;
+    }
+
+}

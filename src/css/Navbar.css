@@ -1,0 +1,25 @@
+.Navbar {
+    max-width:1400px;
+    margin:auto;
+    position: relative;
+  }
+  .Navbar ul {
+    list-style-type: none;
+  }
+  .Navbar button {
+    background: none;
+    border: none;
+    cursor: pointer;
+  }
+  .Navbar .fixed {
+    animation: slideIn 0.3s ease-in-out;
+  }
+  @keyframes slideIn {
+    from {
+      transform: translateX(100%);
+    }
+    to {
+      transform: translateX(0);
+    }
+  }
+  
